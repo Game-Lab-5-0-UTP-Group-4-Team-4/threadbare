@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://d3354rmtoavk7"
+path="res://.godot/imported/after_the_tremor_sequence_puzzle.dialogue-a64c967bc80908fee81dfa59bca4f7c0.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/after_the_tremor/2_taller_puzzle/after_the_tremor_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/after_the_tremor_sequence_puzzle.dialogue-a64c967bc80908fee81dfa59bca4f7c0.tres"]
+
+[params]
+
+defaults=true
