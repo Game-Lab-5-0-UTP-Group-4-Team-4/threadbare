@@ -1,0 +1,30 @@
+# SPDX-FileCopyrightText: The Threadbare Authors
+# SPDX-License-Identifier: MPL-2.0
+~ start
+do animation_player.play(&"walk_on")
+do animation_player.animation_finished
+CHARLIE: ... ya no quiero seguir buscando Bryan. No se si pueda hacer cara a otro de esos mounstros.
+BRYAN: NO! Estoy seguro que ese fantasma debe estar cerca. No te vayas a acobardar ahora.
+CHARLIE: Ya tengo a mi gato, quizá tu mamá esta en otro lugar.
+do animation_player.play(&"looking_for")
+do animation_player.animation_finished
+Charlie: Bryan...
+Bryan: Espera.
+do animation_player.play(&"mom")
+do animation_player.animation_finished
+do animation_player.play(&"return")
+do animation_player.animation_finished
+Bryan: AHI ESTA. Esta en la casa vieja , fuera de la aldea.
+do shaker.shake()
+Charlie: NO, POR FAVOR. TODA LA VIDA MIS PADRES ME DIJERON QUE HO VAYA AHI.
+Bryan: Pues ahora mi madre es la que esta ahí.
+Bryan: Si quieres acompañame. . . Miedoso.
+do animation_player.play(&"bryan_walk_off")
+do animation_player.animation_finished
+Charlie: OYE!
+Charlie: No me dejes solo. . .  ahí VOY!
+do animation_player.play(&"charlie_walk_off")
+do animation_player.animation_finished
+Continuará...
+Fin
+=> END

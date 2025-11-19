@@ -4,7 +4,7 @@
 [ext_resource type="SpriteFrames" uid="uid://bek5ha0emgpqd" path="res://scenes/quests/story_quests/after_the_tremor/player_components/personajes/bryan2.tres" id="2_c6df8"]
 [ext_resource type="SpriteFrames" uid="uid://dbe6l18tss360" path="res://scenes/quests/story_quests/after_the_tremor/player_components/personajes/charlie.tres" id="3_bxofi"]
 [ext_resource type="Script" uid="uid://x1mxt6bmei2o" path="res://scenes/ui_elements/cinematic/cinematic.gd" id="5_wc4s3"]
-[ext_resource type="Resource" uid="uid://mwd8h2q2p0ob" path="res://scenes/quests/story_quests/after_the_tremor/4_outro/outro_components/outro_1.dialogue" id="6_3bxfr"]
+[ext_resource type="Resource" uid="uid://mwd8h2q2p0ob" path="res://scenes/quests/story_quests/after_the_tremor/4_outro/outro_components/outro.dialogue" id="6_3bxfr"]
 [ext_resource type="Script" uid="uid://dunsvrhq42214" path="res://scenes/game_elements/fx/shaker/components/shaker.gd" id="7_askxw"]
 [ext_resource type="Shader" uid="uid://uutv10gct3oe" path="res://scenes/quests/story_quests/after_the_tremor/4_outro/dusk.gdshader" id="8_wc4s3"]
 
